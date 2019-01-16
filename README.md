@@ -11,3 +11,7 @@
 3. AddTodo
 4. TodoList
 5. Todo
+
+## Exercise
+
+Create the functionality to remove a todo from the todo list.
